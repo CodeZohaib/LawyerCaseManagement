@@ -49,32 +49,31 @@ Finally, update the database name:
 By following these steps, you can set up your project with the desired project name and ensure that the database name is correctly configured.<br><br><br>
 **Project Screenshot**<br><br>
 
-![1](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/344f8878-5427-43d4-adf0-433d02cb89ed)
+![1](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/7cea9236-c2c7-48b7-a98d-4bf4458cad5d)
 **Home Page**<br><br>
 
-
-![3](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/d657595a-42de-45e8-a53e-d935b4ab2266)
+![3](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/88525742-34ec-4917-92c5-01fe7c8681b5)
 **Registration Page** : Lawyers can create an account by providing their name, mobile number, email, password, and profile image.<br><br>
 
-![2](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/3f5567bf-fb3d-43b0-b25d-afa61338cc2c)
+![2](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/b22cfe1c-30c0-4405-92e0-5b05a9040150)
 **Login Page** :Lawyers can log in using their email and password<br><br>
 
-![4](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/86568aeb-46fd-4896-8830-843a0ac7da26)
+![4](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/28f4d68e-1f35-49c5-bca8-a2763cadbe50)
 **Dashboard Page** : On the dashboard, lawyers can view the total number of cases and clients. By clicking on total Cases, they can access a comprehensive list of all cases, and similarly, by selecting total Clients, they can access a complete list of all clients.<br><br>
 
-![5](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/b3a55e62-1cdd-413e-a15b-d302c12a01d4)
+![5](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/8cc65dc5-fb64-408f-a103-3cae9200c2a7)
 **Client Page** :Shows client details - name, father's name, CNIC, mobile, address, status. Status: 1 = active (your ongoing case), 2 = inactive (case closed, transferred). Includes options to add, edit, and remove entries.<br><br>
 
-![6](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/88d5496d-9016-4681-b758-297867678f6b)
+![6](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/7adc5e4a-0e76-4e15-aa23-80d962b590c0)
 **Cases Page** : Displays case info - client name, representation, Case No, Case Type, Court name, Section, Case Date, Status. Status: 1 = ongoing, 2 = closed. Details to view case and Hearing info, with printing. Add New Hearing to include date and judge's remarks. Includes options to insert, update, and delete cases<br><br>
 
-![7](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/d097eccc-6b27-4a72-8b57-22f0411e12df)
+![7](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/6dab0bdc-7308-48a7-b9cf-036db24ca484)
 **Details Button** :When you click the Details button, you'll see all the case info like the client's name, case number, and their ID number. You'll also find a list of all the hearings with dates and what the judge said. If you want, you can use the Print button to get a printed version of all the hearing details<br><br>
 
-![8](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/e2193517-2f8b-4e7e-bc3f-f3eed46dbf26)
+![8](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/d52f24cb-e1a3-4bd6-a456-66e4efbefb7b)
 **Cases Type Page** :On this page, you can add different types of cases that you handle as a lawyer, such as Civil, Family, and Criminal cases. You have the option to insert new case types, update existing ones, and also delete case types as needed.<br><br>
 
-![9](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/9f2f7b7a-6621-4056-9b56-8f9cc3aadedc)
+![9](https://github.com/CodeZohaib/LawyerCaseManagement/assets/142882799/85546d07-a36d-442f-a711-04525eea3070)
 **Court Type Page** :Here, you can manage the various court names based on the areas where you handle cases. This includes courts like the Supreme Court, Sindh High Court, and Lahore High Court. You have the capability to add new court names, update existing ones, and remove court names as necessary<br><br>
 
 

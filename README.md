@@ -1,6 +1,6 @@
 # LawyerCaseManagement
 
-**lawyer Case Management System** : This project is all about helping schools and learning centers run better. It's like a special tool that makes it easy to handle things like classes, teachers, students, and money. With this project, I'm showing how I can create a system that makes schools and learning places work more smoothly. This project was developed for my client, **Ubaid Ullah Khattak**, who is a final year project (FYP) student. They have given me permission to include it in my portfolio and upload it on GitHub.<br><br>
+**lawyer Case Management System** : The Lawyer Case Management System is like a super-organized helper for lawyers. It's made for Ubaid Ullah Khattak, who wanted a way to keep track of cases easily. This system makes it smooth to manage cases, clients, and all the legal stuff, so lawyers can do their job better. They have given me permission to include it in my portfolio and upload it on GitHub.<br><br>
 
 **Features**<br>
 
